@@ -1,0 +1,94 @@
+* {
+  padding: 10px;
+  margin: 5px;
+  box-sizing: border-box;
+}  
+
+
+.container {
+	border: 5px solid black;
+}	
+
+
+ .name-con {
+	 background-color: #89898969;
+ }
+ 
+ .name-con > h2 {
+	 font-family: 'Tiro Tamil', serif;
+	 text-transform: uppercase;
+	 font-size: 40px;
+	 padding-left: 20px;
+ }
+ 
+ .name-con > h3 {
+	 font-size: 30px;
+	 padding-left: 20px;
+ }
+ 
+ .text-con > h2 {
+     font-family: 'Alegreya', serif;
+     font-family: 'Tiro Tamil', serif;
+	 font-size: 30px;	
+ }
+ 
+ .table-con > h3 {
+	 padding-right: 200px;
+ }
+ 
+ 
+	 
+.skill-con > h2 {
+	 border: 5px solid black;
+	 font-family: 'Jost', sans-serif;
+	 font-size: 35px;
+	 background-color: #89898969;
+	 padding: 2px;
+}
+
+.skill-con > h3 {
+     font-size: 25px;
+	 font-family: 'Noto Serif Khojki', serif;
+}
+
+.intern-con > h2 {
+	 border: 5px solid black;
+	 font-family: 'Jost', sans-serif;
+     font-family: 'Noto Serif Khojki', serif;
+	 font-size: 30px;
+	 background-color: #89898969;
+}
+
+.intern-con > h3 {
+     font-size: 30px;
+	 font-family: 'Jost', sans-serif;
+}
+
+.personal-con > h2 {
+	 border: 5px solid black;
+     font-family: 'Jost', sans-serif;
+     font-family: 'Kalam', cursive;
+     font-size: 30px;
+	 background-color: #89898969;
+	 padding: auto;
+}
+
+.personal-con > h3 {
+	 font-size: 25px;
+	 font-family: 'Kalam', cursive;
+}
+
+.declaration-con > h2 {
+	 font-size: 30px;
+	 font-family: 'Jost', sans-serif;
+     font-family: 'Kalam', cursive;
+     font-family: 'Noto Serif Khojki', serif;
+     font-family: 'Rokkitt', serif;
+}
+
+.declaration-con > h3 {
+	 font-size: 25px;
+	 font-family: 'Jost', sans-serif;
+     font-family: 'Kalam', cursive;
+     font-family: 'Mukta Malar', sans-serif;
+}
